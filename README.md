@@ -1,8 +1,3 @@
 Rodrigo Rial
-# Hola mundo
-## Hola mundo
-### Hola mundo
-#### Hola mundo
-##### Probando los H
-
-# Este texto lo subo desde mi local al remoto
+# Samsung Campus Innovation
+#### Este va a ser el repositorio personal del curso. A partir de ahora, cualquier trabajo hecho se tendrá que subir al repositorio para practicar
